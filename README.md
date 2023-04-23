@@ -68,7 +68,11 @@
 Campaifund is deployed using Netlify, a powerful platform for web application deployment and hosting. and for Smart contract I have use ThirdWeb which PowerFul Plateform for deploy your smart Contact
 
 # ScreenShots
-![Image 1](https://github.com/JayeshYadav99/Campaifund/blob/main/Capoure.PNG)
+![Image 1](https://github.com/JayeshYadav99/Campaifund/blob/main/home.PNG)
+![Image 2](https://github.com/JayeshYadav99/Campaifund/blob/main/blog.PNG)
+![Image 3](https://github.com/JayeshYadav99/Campaifund/blob/main/Capoure.PNG)
+![Image 4](https://github.com/JayeshYadav99/Campaifund/blob/main/Capture.PNG)
+![Image 2](https://github.com/JayeshYadav99/Campaifund/blob/main/Capthure.PNG)
 
 
 ##  License
