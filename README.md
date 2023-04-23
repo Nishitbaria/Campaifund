@@ -69,10 +69,15 @@ Campaifund is deployed using Netlify, a powerful platform for web application de
 
 # ScreenShots
 ![Image 1](https://github.com/JayeshYadav99/Campaifund/blob/main/images/home.PNG)
+
 ![Image 2](https://github.com/JayeshYadav99/Campaifund/blob/main/images/blog.PNG)
+
 ![Image 3](https://github.com/JayeshYadav99/Campaifund/blob/main/images/Capoure.PNG)
+
 ![Image 4](https://github.com/JayeshYadav99/Campaifund/blob/main/images/Capture.PNG)
-![Image 2](https://github.com/JayeshYadav99/Campaifund/blob/main/images/Capthure.PNG)
+
+![Image 5](https://github.com/JayeshYadav99/Campaifund/blob/main/images/Capthure.PNG)
+
 
 
 ##  License
